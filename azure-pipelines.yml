@@ -9,4 +9,4 @@ trigger:
 pool: Test Pool
 
 steps:
- - scripts: echo "Hello World"
+ - script: echo "Hello World"
